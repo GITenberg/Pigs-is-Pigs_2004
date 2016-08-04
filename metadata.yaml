@@ -1,0 +1,33 @@
+_repo: Pigs-is-Pigs_2004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: Mike Flannery, the Westcote agent of the Interurban Express Company,
+  leaned over the counter of the express office and shook his fist. Mr. Morehouse,
+  angry and red, stood on the other side of the counter, trembling with rage. The
+  argument had been long and heated, and at last Mr. Morehouse had talked himself
+  speechless. The cause of the trouble stood on the counter between the two men. It
+  was a soap box across the top of which were nailed a number of strips, forming a
+  rough but serviceable cage. In it two spotted guinea-pigs were greedily eating lettuce
+  leaves.
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Short stories'
+- GITenberg
+title: Pigs is Pigs
+url: http://www.gutenberg.org/ebooks/2004
