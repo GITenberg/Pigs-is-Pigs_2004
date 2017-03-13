@@ -1,5 +1,8 @@
 _repo: Pigs-is-Pigs_2004
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Ellis Parker
@@ -16,6 +19,8 @@ description: Mike Flannery, the Westcote agent of the Interurban Express Company
   was a soap box across the top of which were nailed a number of strips, forming a
   rough but serviceable cage. In it two spotted guinea-pigs were greedily eating lettuce
   leaves.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2004#Pigs-is-Pigs
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
 identifiers:
